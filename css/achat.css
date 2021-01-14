@@ -1,0 +1,31 @@
+#logo_1 {
+	width:80px;
+	height:110px;
+	position:absolute;
+	z-index:1;
+}
+
+#logo_2 {
+	width:80px;
+	height:110px;
+	position:absolute;
+	z-index:2;
+}
+
+#logo_3 {
+	width:80px;
+	height:110px;
+	position:absolute;
+	z-index:3;
+}
+
+#blank {
+	height:110px;
+	width:80px;
+}
+
+#anti_vide {
+	margin-top:-60px;
+	height:1px;
+	width:auto;
+}

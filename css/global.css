@@ -1,0 +1,88 @@
+#carte {
+     background-position: top center;
+     height:365px; 
+	 width:425px;
+	 margin-left:320px;
+	 background-image:url('../images/jeux/carte.png');
+	 background-repeat:no-repeat;
+	 background-attachment:scroll
+}
+#carte_1 {
+     background-position: top center;
+     height:365px; 
+	 width:425px;
+	 margin-left:320px;
+	 background-image:url('../images/jeux/carte_1.png');
+	 background-repeat:no-repeat;
+	 background-attachment:scroll
+}
+#carte_texte {
+    padding-left:223px;
+    padding-top:22px;
+	text-align:left;
+	font-size:10pt;
+	font-weight:bold; line-height:160%; color:#FFFFFF
+}
+#carte_texte_1 {
+    padding-left:223px;
+    padding-top:8px;
+	text-align:left;
+	font-size:10pt;
+	font-weight:bold; line-height:160%; color:#FFFFFF
+}
+#carte_puissance {
+    padding-left:330px;
+    padding-top:124px;
+	text-align:left;
+	font-size:6pt;
+	line-height:160%;
+	color:#FFCC99;
+	font-style:italic
+}
+#carte_puissance_1 {
+    padding-left:345px;
+    padding-top:140px;
+	text-align:left;
+	font-size:6pt;
+	line-height:160%;
+	color:#FFCC99;
+	font-style:italic
+}
+#carte_niveau {
+    padding-left:180px;
+    padding-top:38px;
+	text-align:left;
+	font-size:10pt;
+	line-height:160%;
+	color:#CCCCCC;
+	font-style:bold
+}
+#carte_niveau_1 {
+    padding-left:180px;
+    padding-top:43px;
+	text-align:left;
+	font-size:12pt;
+	line-height:160%;
+	color:#000000;
+	font-weight:bold
+}
+premier {
+     color: #EFD807;
+	 font-size:11px;
+	 text-shadow: 0 0 0.2em #000
+}
+deuxieme {
+     color: #AFAFAF;
+	 font-size:11px;
+	 text-shadow: 0 0 0.2em #000
+}
+troisieme {
+     color: #614E1A;
+	 font-size:11px;
+	 text-shadow: 0 0 0.2em #000
+}
+reste {
+     color: #000000;
+	 font-size:11px;
+	 text-shadow: 0 0 0.2em #000
+}

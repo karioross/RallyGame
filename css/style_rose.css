@@ -1,0 +1,184 @@
+body, html  {
+	 height: 100%;
+     background:#551515 url('../images/rose/fond.png') repeat-x;
+	 margin:0;
+	 padding:0;
+	 font-family:Verdana, Arial, Helvetica, sans-serif;
+	 text-align:center;
+	 color:#333333;
+	 font-size:11px;
+	 font-weight:bold;
+}   
+#conteneur {
+    margin:0 auto 0 auto;
+	position:relative;
+	text-align:center;
+}
+#header {
+     height:224px; 
+	 background:url(../images/rose/header.png) no-repeat top center;
+	 margin:0 auto 0 auto;
+	 padding:0;
+	 width:1024px;
+} 	
+#left {
+     width: 170px;
+	 float: left;
+	 color:#000;
+	 margin:23px 0 0 50px;
+	 text-align:left;
+}	 	 
+#right {
+     color:#000;
+	 float:right; 
+	 line-height:10pt;
+	 width:170px;
+	 margin:23px 23px 0 0;
+	 text-align:right;
+}	
+#contenu {
+	 margin:0 auto 0 auto;
+	 text-align:center;
+}	 
+#menu {
+      width:428px;
+	  height:216px;
+	  background:url(../images/rose/menu.png);
+	  float:right;
+	  margin:0 100px 0 0;
+}  
+ul {
+     margin:0 auto 0 auto;
+	 width:170px;
+	 padding:0;
+}
+ul li a, ul li {
+     display: block;
+	 color: #fff;
+	 outline:none;
+	 text-decoration: none;
+	 list-style-type:none;
+	 line-height:16px;
+}														  
+.contenu_haut {
+     width:800px;
+	 background:url(../images/rose/contenu_haut.png) no-repeat;
+	 height:17px;
+	 margin:0 auto
+}
+.contenu_fond {
+     width:750px;
+     min-height:215px;
+	 background:url(../images/rose/contenu_fond.png);
+	 text-align:left;
+	 padding:0 25px 0 25px;
+	 margin:0 auto 0 auto;
+}
+.contenu_bas  {
+     width:800px;
+	 padding:0;
+	 background:url(../images/rose/contenu_bas.png) no-repeat;
+	 height:25px;
+	 margin:0 auto 0 auto;
+} 	 
+.contenu_fond a {
+     color: #ff1fff;
+	 text-decoration: none;
+	 outline:none;
+}
+.contenu_fond a:hover {
+     color:#FFF; 
+}	 
+span {
+     color: #e17474;
+	 font-weight:bold;
+	 font-size:13px;
+	 text-shadow: 0 0 0.2em #e17474
+}
+bleue {
+     color: #e17474;
+	 font-size:13px;
+	 text-shadow: 0 0 0.1em #000
+}
+vert {
+     color: #00FF00;
+	 font-size:11px;
+	 text-shadow: 0 0 0.1em #000
+}
+vert_barre {
+     color: #00FF00;
+	 font-size:11px;
+	 text-shadow: 0 0 0.2em #00FF00
+}
+jaune {
+     color: #FFCC00;
+	 font-size:11px;
+	 text-shadow: 0 0 0.1em #000
+}
+jaune_barre {
+     color: #FFCC00;
+	 font-size:11px;
+	 text-shadow: 0 0 0.2em #FFCC00
+}
+orange {
+     color: #FF6600;
+	 font-size:11px;
+	 text-shadow: 0 0 0.1em #000
+}
+rouge {
+     color: #FF0000;
+	 font-size:11px;
+	 text-shadow: 0 0 0.1em #000
+}
+rouge_barre {
+     color: #FF0000;
+	 font-size:11px;
+	 text-shadow: 0 0 0.2em #FF0000
+}
+.separateur {
+     clear: both;
+	 visibility: hidden; 
+}
+#attache {
+	margin-top:100px;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+}
+#pied {
+     background:url(../images/rose/pied.png) top;
+	 height:19px;
+	 margin: 0 auto;
+	 padding:16px 10px 0 0;
+	 text-align:right;
+	 font:10px "trebuchet ms";
+}	
+.blanc {
+	width:100%;
+	height:130px;
+}
+#bas_page {
+     background:#d6dae1;
+}
+#superglobal{
+	position : relative;
+	min-height: 100%;
+}
+a {
+     color:#FFF;
+	 text-decoration: none;
+	 outline:none;
+}
+a:hover {
+     color:#e17474;
+     text-shadow: 0 0 0.2em #e17474
+}
+.lien a {
+     color:#000000;
+	 text-decoration: none;
+	 outline:none
+}
+.lien a:hover {
+     color:#FF66CC;
+     text-shadow: 0 0 0.2em #FF66CC
+}
